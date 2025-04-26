@@ -1,0 +1,21 @@
+# Entornos
+.env*
+*.env
+
+# Docker
+**/node_modules
+**/_pysache_/
+**/.pytest_cahe/
+**/.venv/
+**/dist/
+**/build/
+
+
+# Logs y backups
+*.log
+*.bak
+
+
+# IDEs
+.vscode/
+.idea/
